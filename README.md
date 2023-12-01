@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamzaz9912
-- 👀 I’m interested in ios development    
+- 👀 I’m interested in React,Node,Express,Nextjs development    
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
