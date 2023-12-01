@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamzaz9912
+- 👋 Hi, I’m Hamza Zafar
 - 👀 I’m interested in React,Node,Express,Nextjs development    
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
