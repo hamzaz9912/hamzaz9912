@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaz9912" alt="hamzaz9912" /></a> </p>
 
-- 🔭 I’m currently working on **Feeds** Education Reels LMS 
+- 🔭 I’m currently working on **Biscunt React Native Application** Education Reels LMS 
 
 - 🌱 I’m currently learning **Python django**
 
